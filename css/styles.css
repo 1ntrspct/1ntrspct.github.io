@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Jura');
 
 * {
     margin: 0;
@@ -7,7 +7,7 @@
 }
 
 body {
-    font-family: Arial, sans-serif;
+    font-family: Jura;
     position: relative;
     overflow: hidden;
     margin: 0;
@@ -75,7 +75,7 @@ canvas {display: block;}
 }
 
 .nickname {
-    font-family: "Roboto", sans-serif;
+    font-family: "Jura";
     color: white;
 	margin: 0;
 	margin-bottom: -10px;
